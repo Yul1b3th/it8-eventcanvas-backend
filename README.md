@@ -8,12 +8,12 @@ Asegúrate de tener instalado Node.js y npm antes de seguir estos pasos.
 **✔️ Paso 1:** Clonar el Repositorio
 
 ```bash
-git clone https://url-del-repositorio.git
+git clone https://github.com/Yul1b3th/eventcanvas-backend.git
 ```
 
 **✔️ Paso 2:** Ingresa al directorio del proyecto:
 ```bash
-cd nombre-del-proyecto/backend 
+cd eventcanvas-backend
 ```
 
 **✔️ Paso 3:** Instalar las Dependencias
